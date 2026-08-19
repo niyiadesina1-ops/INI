@@ -1,0 +1,6 @@
+{
+  "name": "ALLJOB",
+  "description": "An all-in-one platform to discover jobs, promote professional skills, create advertisements, and connect directly with customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
